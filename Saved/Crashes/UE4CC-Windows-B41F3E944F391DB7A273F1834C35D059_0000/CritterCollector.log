@@ -1,0 +1,1327 @@
+﻿Log file open, 11/10/21 15:56:07
+LogInit: Display: Running engine for game: CritterCollector
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.166637
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/CritterCollector.uproject" -Output="C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Intermediate/TargetInfo.json"]
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=bcongressi -epicuserid=849def32f1f6477f842919c513b888bb -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.11.10-20.56.08:099][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-20.56.08:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.10-20.56.08:100][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-20.56.08:100][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-20.56.08:104][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-20.56.08:104][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.11.10-20.56.08:105][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.11.10-20.56.08:106][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-20.56.08:106][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.10-20.56.08:106][  0]LogHAL: Display: Platform has ~ 16 GB [17100435456 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.10-20.56.08:106][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.10-20.56.08:106][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-20.56.08:106][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.10-20.56.08:107][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-20.56.08:107][  0]LogInit: Computer: DESKTOP-IB8CKBV
+[2021.11.10-20.56.08:107][  0]LogInit: User: BarryC
+[2021.11.10-20.56.08:107][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.11.10-20.56.08:107][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.10-20.56.08:108][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.10-20.56.08:108][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.10-20.56.08:108][  0]LogMemory: Process Physical Memory: 120.08 MB used, 120.09 MB peak
+[2021.11.10-20.56.08:108][  0]LogMemory: Process Virtual Memory: 97.29 MB used, 97.29 MB peak
+[2021.11.10-20.56.08:108][  0]LogMemory: Physical Memory: 7612.18 MB used,  8696.07 MB free, 16308.25 MB total
+[2021.11.10-20.56.08:108][  0]LogMemory: Virtual Memory: 5166.82 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.11.10-20.56.08:111][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.10-20.56.08:150][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.10-20.56.08:150][  0]LogInit: Using OS detected language (en-US).
+[2021.11.10-20.56.08:150][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.10-20.56.08:153][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.10-20.56.08:295][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.10-20.56.08:318][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.10-20.56.08:318][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.10-20.56.08:427][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-20.56.08:427][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.10-20.56.08:427][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.10-20.56.08:427][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.10-20.56.08:529][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.11.10-20.56.08:529][  0]LogD3D11RHI:       8079/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.10-20.56.08:531][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.10-20.56.08:531][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.10-20.56.08:531][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.10-20.56.08:537][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.10-20.56.08:537][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.10-20.56.08:537][  0]LogWindows: EnumDisplayDevices:
+[2021.11.10-20.56.08:537][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.11.10-20.56.08:537][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.11.10-20.56.08:537][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.11.10-20.56.08:537][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.11.10-20.56.08:538][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.10-20.56.08:538][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.11.10-20.56.08:538][  0]LogD3D11RHI:   Driver Version: 466.47 (internal:27.21.14.6647, unified:466.47)
+[2021.11.10-20.56.08:538][  0]LogD3D11RHI:      Driver Date: 5-13-2021
+[2021.11.10-20.56.08:538][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.11.10-20.56.08:604][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.10-20.56.08:604][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.10-20.56.08:604][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.10-20.56.08:625][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.10-20.56.08:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.10-20.56.08:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.10-20.56.08:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.10-20.56.08:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.10-20.56.08:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.10-20.56.08:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.10-20.56.08:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.10-20.56.08:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.10-20.56.08:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.10-20.56.08:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.10-20.56.08:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.10-20.56.08:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.10-20.56.08:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.10-20.56.09:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.10-20.56.09:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.10-20.56.09:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.10-20.56.09:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.10-20.56.09:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.10-20.56.09:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.10-20.56.09:043][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.10-20.56.09:050][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.10-20.56.09:106][  0]LogShaderCompilers: Guid format shader working directory is -66 characters bigger than the processId version (../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Intermediate/Shaders/WorkingDirectory/24324/).
+[2021.11.10-20.56.09:106][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Barry C/AppData/Local/Temp/UnrealShaderWorkingDir/971F36D642BAF58A4372F19615BA47CF/'.
+[2021.11.10-20.56.09:106][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.10-20.56.09:106][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.10-20.56.09:106][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.10-20.56.09:787][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.10-20.56.09:831][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/Barry C/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.11.10-20.56.09:831][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Barry C/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.11.10-20.56.09:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.10-20.56.09:831][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.10-20.56.09:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-20.56.09:831][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.10-20.56.09:839][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.10-20.56.09:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-20.56.09:840][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.10-20.56.09:841][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Barry C/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.10-20.56.09:841][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.10-20.56.09:841][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.10-20.56.09:883][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.10-20.56.09:884][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.10-20.56.09:905][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.11.10-20.56.10:092][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-20.56.10:179][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.10-20.56.10:179][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.10-20.56.10:179][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.10-20.56.10:179][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.10-20.56.10:179][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.10-20.56.10:192][  0]LogNetVersion: CritterCollector 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 619663150)
+[2021.11.10-20.56.10:550][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002084D228380), frame # 0
+[2021.11.10-20.56.10:550][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002084D165080), frame # 0
+[2021.11.10-20.56.10:551][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002084D1E4400), frame # 0
+[2021.11.10-20.56.10:588][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.032054 seconds
+[2021.11.10-20.56.10:592][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.11.10-20.56.10:592][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.11.10-20.56.10:592][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.10-20.56.10:834][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.10-20.56.10:837][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.10-20.56.10:894][  0]SourceControl: Source control is disabled
+[2021.11.10-20.56.10:894][  0]SourceControl: Source control is disabled
+[2021.11.10-20.56.10:896][  0]SourceControl: Source control is disabled
+[2021.11.10-20.56.10:898][  0]SourceControl: Source control is disabled
+[2021.11.10-20.56.10:903][  0]SourceControl: Source control is disabled
+[2021.11.10-20.56.11:073][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.10-20.56.11:086][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-20.56.11:086][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-20.56.11:122][  0]LogOcInput: OculusInput pre-init called
+[2021.11.10-20.56.11:131][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.10-20.56.11:131][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.10-20.56.11:177][  0]LogEngine: Initializing Engine...
+[2021.11.10-20.56.11:178][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-20.56.11:178][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.10-20.56.11:179][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.10-20.56.11:270][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.10-20.56.11:275][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.10-20.56.11:275][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020852FB5A00), frame # 0
+[2021.11.10-20.56.11:275][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020852FF0CC0), frame # 0
+[2021.11.10-20.56.11:292][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-20.56.11:293][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-20.56.11:293][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-20.56.11:293][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-20.56.11:293][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-20.56.11:293][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-20.56.11:293][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-20.56.11:293][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-20.56.11:293][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-20.56.11:293][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-20.56.11:303][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-20.56.11:303][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-20.56.11:340][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-20.56.11:342][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-20.56.11:344][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-20.56.11:344][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-20.56.11:345][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-20.56.11:345][  0]LogInit: FAudioDevice initialized.
+[2021.11.10-20.56.11:345][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.10-20.56.11:434][  0]LogDerivedDataCache: Saved boot cache 0.09s 76MB C:/Users/Barry C/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.11.10-20.56.11:434][  0]LogInit: Texture streaming: Enabled
+[2021.11.10-20.56.11:446][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.10-20.56.11:446][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.10-20.56.11:447][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.10-20.56.11:477][  0]LogInit: Transaction tracking system initialized
+[2021.11.10-20.56.11:491][  0]BlueprintLog: New page: Editor Load
+[2021.11.10-20.56.11:536][  0]LocalizationService: Localization service is disabled
+[2021.11.10-20.56.11:655][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.11.10-20.56.11:655][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.10-20.56.11:680][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/' took 0.00s
+[2021.11.10-20.56.11:914][  0]SourceControl: Source control is disabled
+[2021.11.10-20.56.11:914][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.597
+[2021.11.10-20.56.11:915][  0]LightingResults: New page: Lighting Build
+[2021.11.10-20.56.11:915][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-20.56.11:915][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-20.56.11:915][  0]MapCheck: New page: Map Check
+[2021.11.10-20.56.11:915][  0]LightingResults: New page: Lighting Build
+[2021.11.10-20.56.11:924][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020852FB5A00), frame # 0
+[2021.11.10-20.56.11:924][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020852FF0CC0), frame # 0
+[2021.11.10-20.56.11:925][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.11.10-20.56.12:104][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-20.56.12:104][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002083FD6BE00), frame # 0
+[2021.11.10-20.56.12:104][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002083FD8B100), frame # 0
+[2021.11.10-20.56.12:134][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.10-20.56.12:146][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.11.10-20.56.12:149][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-20.56.12:149][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2021.11.10-20.56.12:149][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.234
+[2021.11.10-20.56.12:151][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.833
+[2021.11.10-20.56.12:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-20.56.12:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-20.56.12:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-20.56.12:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-20.56.12:275][  0]LogCollectionManager: Loaded 0 collections in 0.001520 seconds
+[2021.11.10-20.56.12:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Collections/' took 0.00s
+[2021.11.10-20.56.12:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Developers/BarryC/Collections/' took 0.00s
+[2021.11.10-20.56.12:286][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Collections/' took 0.00s
+[2021.11.10-20.56.12:286][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 3427 classes and 821 folders.
+[2021.11.10-20.56.12:288][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.10-20.56.12:336][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.10-20.56.12:337][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.11.10-20.56.12:406][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.10-20.56.12:407][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.10-20.56.12:410][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.10-20.56.12:466][  0]LogRenderer: Reallocating scene render targets to support 1288x660 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-20.56.12:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.10-20.56.12:545][  0]LogLoad: (Engine Initialization) Total time: 6.23 seconds
+[2021.11.10-20.56.12:545][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.10-20.56.12:580][  0]LogAssetRegistry: Asset discovery search completed in 2.6754 seconds
+[2021.11.10-20.56.12:583][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.11.10-20.56.12:584][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.10-20.56.13:901][  4]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-20.56.26:001][683]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Barry C\Downloads\easy-lemon.wav)
+[2021.11.10-20.56.26:018][683]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave easy-lemon...
+[2021.11.10-20.56.26:018][683]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/easy-lemon.easy-lemon will be modified from 40 to 40.
+[2021.11.10-20.56.26:412][683]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5515776 while cooking SoundWave /Game/Assets/easy-lemon.easy-lemon.
+[2021.11.10-20.57.21:660][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\play-button-pressed.png)
+[2021.11.10-20.57.21:666][282]LogTexture: Display: Building textures: play-button-pressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:677][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\play-button-unpressed.png)
+[2021.11.10-20.57.21:682][282]LogTexture: Display: Building textures: play-button-unpressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:691][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\settings-leaf.png)
+[2021.11.10-20.57.21:697][282]LogTexture: Display: Building textures: settings-leaf (BGRA8, 1003X396)
+[2021.11.10-20.57.21:706][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\settings-pressed.png)
+[2021.11.10-20.57.21:712][282]LogTexture: Display: Building textures: settings-pressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:720][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\settings-unpressed.png)
+[2021.11.10-20.57.21:726][282]LogTexture: Display: Building textures: settings-unpressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:736][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\slider-background.png)
+[2021.11.10-20.57.21:737][282]LogTexture: Display: Building textures: slider-background (BGRA8, 977X68)
+[2021.11.10-20.57.21:741][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\slider-icon.png)
+[2021.11.10-20.57.21:742][282]LogTexture: Display: Building textures: slider-icon (AutoDXT, 64X64)
+[2021.11.10-20.57.21:747][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\title-leaf.png)
+[2021.11.10-20.57.21:753][282]LogTexture: Display: Building textures: title-leaf (BGRA8, 1003X396)
+[2021.11.10-20.57.21:762][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\main-background.jpg)
+[2021.11.10-20.57.21:787][282]LogTexture: Display: Building textures: main-background (BGRA8, 1024X1365)
+[2021.11.10-20.57.21:814][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\settings-background.jpg)
+[2021.11.10-20.57.21:835][282]LogTexture: Display: Building textures: settings-background (BGRA8, 1125X2436)
+[2021.11.10-20.57.21:894][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\encyclopedia-leaf.png)
+[2021.11.10-20.57.21:901][282]LogTexture: Display: Building textures: encyclopedia-leaf (BGRA8, 1003X396)
+[2021.11.10-20.57.21:913][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\encyclopedia-pressed.png)
+[2021.11.10-20.57.21:918][282]LogTexture: Display: Building textures: encyclopedia-pressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:930][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\encyclopedia-unpressed.png)
+[2021.11.10-20.57.21:936][282]LogTexture: Display: Building textures: encyclopedia-unpressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:945][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\go-back-pressed.png)
+[2021.11.10-20.57.21:951][282]LogTexture: Display: Building textures: go-back-pressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:960][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\go-back-unpressed.png)
+[2021.11.10-20.57.21:966][282]LogTexture: Display: Building textures: go-back-unpressed (BGRA8, 1056X470)
+[2021.11.10-20.57.21:975][282]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\jei.png)
+[2021.11.10-20.57.22:017][282]LogTexture: Display: Building textures: jei (BGRA8, 2179X2399)
+[2021.11.10-20.57.38:443][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.10-20.57.38:468][432]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap4B4F3EAD4D73B0BB4990FC8EC27A8E08.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.10-20.57.38:580][432]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_BuiltData09447D03469C3D5D79232DB8EFED7872.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.10-20.57.38:593][432]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-20.57.38:593][432]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.10-20.57.38:593][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.10-20.57.48:326][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/jei54A098CF44BC74E6DFDEFCA6F45A8786.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/jei.uasset'
+[2021.11.10-20.57.48:339][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-unpressed3C53D4974AE82F3363BB5995B399E372.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/go-back-unpressed.uasset'
+[2021.11.10-20.57.48:351][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-pressed1789D1B040752B4EA4CE76A21D2C4035.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/go-back-pressed.uasset'
+[2021.11.10-20.57.48:363][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/encyclopedia-unpressed1040FFFA4700E2BFCD158DB9C16D54A6.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/encyclopedia-unpressed.uasset'
+[2021.11.10-20.57.48:374][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/encyclopedia-pressed9FD34A9C4FEF951289EF4E979B6CB2F8.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/encyclopedia-pressed.uasset'
+[2021.11.10-20.57.48:388][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/encyclopedia-leaf0DAAF160427024052436BD8E191B047A.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/encyclopedia-leaf.uasset'
+[2021.11.10-20.57.48:426][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-background33395AFF4737B939519EEDB9A2CB0BFF.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/settings-background.uasset'
+[2021.11.10-20.57.48:502][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/main-background1B6AD9CE401741A206C47FB4C231DBBA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/main-background.uasset'
+[2021.11.10-20.57.48:517][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/title-leaf93407398420ACE216D6EF0893DF56749.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/title-leaf.uasset'
+[2021.11.10-20.57.48:521][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-icon75BA8DD3472287CD0818F6859BE9AFE2.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/slider-icon.uasset'
+[2021.11.10-20.57.48:526][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-background2BD62C0C4973285A3F1649BD9BBB7E6A.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/slider-background.uasset'
+[2021.11.10-20.57.48:538][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-unpressed5466FA324D44FE51C5114F8CE01F6FD5.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/settings-unpressed.uasset'
+[2021.11.10-20.57.48:550][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-pressedD1BCD0C04C2037827E1ED4B65CCB5389.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/settings-pressed.uasset'
+[2021.11.10-20.57.48:564][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-leafCC3D1B624661AD587186E98E13B7D350.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/settings-leaf.uasset'
+[2021.11.10-20.57.48:575][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/play-button-unpressed2D5EF93345641B60EFE9BBB200B325CD.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/play-button-unpressed.uasset'
+[2021.11.10-20.57.48:587][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/play-button-pressed6ECF757748B528746966D6B8DF70AE13.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/play-button-pressed.uasset'
+[2021.11.10-20.57.48:597][838]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/easy-lemon09E0009B4BD8D54F726CDE95291AA61A.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/easy-lemon.uasset'
+[2021.11.10-20.57.48:616][838]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/jei.jei
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/go-back-unpressed.go-back-unpressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/go-back-pressed.go-back-pressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/encyclopedia-unpressed.encyclopedia-unpressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/encyclopedia-pressed.encyclopedia-pressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/encyclopedia-leaf.encyclopedia-leaf
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/settings-background.settings-background
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/main-background.main-background
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/title-leaf.title-leaf
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/slider-icon.slider-icon
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/slider-background.slider-background
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/settings-unpressed.settings-unpressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/settings-pressed.settings-pressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/settings-leaf.settings-leaf
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/play-button-unpressed.play-button-unpressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating Texture2D /Game/Assets/play-button-pressed.play-button-pressed
+[2021.11.10-20.57.48:616][838]LogContentValidation: Display: Validating SoundWave /Game/Assets/easy-lemon.easy-lemon
+[2021.11.10-20.58.30:512][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.11.10-20.58.32:018][451]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-20.58.32:078][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.10-20.58.32:087][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.10-20.58.32:100][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.11.10-20.58.32:110][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.MainMenuPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.MainMenuPlayerController_C' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.MainMenuPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.MainMenuPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.SKEL_MainMenuPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.SKEL_MainMenuPlayerController_C:ReceiveTick' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.SKEL_MainMenuPlayerController_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:450][548]LogMetaData: Removing '/Game/Menus/MainMenuPlayerController.SKEL_MainMenuPlayerController_C' ref from Metadata '/Game/MainMenu/MainMenuPlayerController.PackageMetaData'
+[2021.11.10-20.58.41:452][548]LogMetaData: Removing '/Game/Menus/MainMenuGameMode.MainMenuGameMode_C' ref from Metadata '/Game/MainMenu/MainMenuGameMode.PackageMetaData'
+[2021.11.10-20.58.41:452][548]LogMetaData: Removing '/Game/Menus/MainMenuGameMode.SKEL_MainMenuGameMode_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/MainMenuGameMode.PackageMetaData'
+[2021.11.10-20.58.41:452][548]LogMetaData: Removing '/Game/Menus/MainMenuGameMode.SKEL_MainMenuGameMode_C' ref from Metadata '/Game/MainMenu/MainMenuGameMode.PackageMetaData'
+[2021.11.10-20.58.41:496][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.MainMenuBlueprint_C' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.MainMenuBlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.MainMenuBlueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.MainMenuBlueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.SKEL_MainMenuBlueprint_C:PreConstruct' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.SKEL_MainMenuBlueprint_C:Construct' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.SKEL_MainMenuBlueprint_C:Tick' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.SKEL_MainMenuBlueprint_C:BndEvt__StartButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.SKEL_MainMenuBlueprint_C:BndEvt__SettingsButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:497][548]LogMetaData: Removing '/Game/Menus/MainMenuBlueprint.SKEL_MainMenuBlueprint_C' ref from Metadata '/Game/MainMenu/MainMenuBlueprint.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SettingsWidget_C' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SettingsWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SettingsWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SettingsWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SKEL_SettingsWidget_C:PreConstruct' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SKEL_SettingsWidget_C:Construct' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SKEL_SettingsWidget_C:Tick' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SKEL_SettingsWidget_C:BndEvt__BackButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:499][548]LogMetaData: Removing '/Game/Menus/SettingsWidget.SKEL_SettingsWidget_C' ref from Metadata '/Game/MainMenu/SettingsWidget.PackageMetaData'
+[2021.11.10-20.58.41:545][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuPlayerController4A7359434C725A037B1DAD932407BD05.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuPlayerController.uasset'
+[2021.11.10-20.58.41:550][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuGameModeDE2D7E10478A49B235487EA7C47FCF38.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuGameMode.uasset'
+[2021.11.10-20.58.41:554][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuGameMode1A0FDAFC41B43897ED36A489FB0E1C9D.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuGameMode.uasset'
+[2021.11.10-20.58.41:558][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/jei" FILE="../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/jei.uasset" SILENT=true
+[2021.11.10-20.58.41:565][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/jei368FFDBD4F2954624D0237B9AF74364B.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/jei.uasset'
+[2021.11.10-20.58.41:583][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/main-background679DFF834EC90B5425E1A497C59CDA01.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/main-background.uasset'
+[2021.11.10-20.58.41:590][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/play-button-pressed2A6905CE4C293F4243338FB7C8906565.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/play-button-pressed.uasset'
+[2021.11.10-20.58.41:597][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/play-button-unpressed891B9B80438B8C7446040D982CD1434C.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/play-button-unpressed.uasset'
+[2021.11.10-20.58.41:603][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-pressed564882074DAA107C06DB53AAE175C441.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/settings-pressed.uasset'
+[2021.11.10-20.58.41:609][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-unpressed9AD5467F4CDE41ABB44BEBB08D2BE954.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/settings-unpressed.uasset'
+[2021.11.10-20.58.41:615][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-pressed67E7728342F8C97A5317C2B5C0DF0ACA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/go-back-pressed.uasset'
+[2021.11.10-20.58.41:621][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-unpressed831484BC4829B741E09521BFDA2015F8.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/go-back-unpressed.uasset'
+[2021.11.10-20.58.41:631][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprintCF37CDAC465265913A0C7D89B711EEDE.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset'
+[2021.11.10-20.58.41:635][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprint85B44CA04B0C084700C600805D74EAA4.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset'
+[2021.11.10-20.58.41:643][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget243A292E4A7C3EF5B9E915ABCF22B35A.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-20.58.41:650][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-background01C83A0E41F60C6D4F59FCAA263815D0.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/settings-background.uasset'
+[2021.11.10-20.58.41:658][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-logoB49DBA704D8C413DDA0D12BCFBB2C9B4.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/settings-logo.uasset'
+[2021.11.10-20.58.41:662][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-background5041BAEC4B5546C5B08DCB94B5041439.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/slider-background.uasset'
+[2021.11.10-20.58.41:666][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-icon249A622C4A3FE3B5221660AE1BCB57CF.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/slider-icon.uasset'
+[2021.11.10-20.58.41:674][548]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/title-leaf858FF69647C86BE32D5642B130312100.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/title-leaf.uasset'
+[2021.11.10-20.58.42:022][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.11.10-20.58.42:032][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:040][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:049][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:058][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.10-20.58.42:067][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:077][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.10-20.58.42:086][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:095][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.10-20.58.42:104][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.10-20.58.42:112][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:121][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.10-20.58.42:130][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:138][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:147][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.10-20.58.42:162][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.11.10-20.58.42:172][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.58.42:207][548]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating Blueprint /Game/Menus/MainMenuPlayerController.MainMenuPlayerController
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating Blueprint /Game/Menus/MainMenuGameMode.MainMenuGameMode
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating ObjectRedirector /Game/MainMenu/MainMenuGameMode.MainMenuGameMode
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating ObjectRedirector /Game/MainMenu/MainMenuGameMode.Default__MainMenuGameMode_C
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating ObjectRedirector /Game/MainMenu/MainMenuGameMode.MainMenuGameMode_C
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/jei.jei
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/main-background.main-background
+[2021.11.10-20.58.42:207][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/play-button-pressed.play-button-pressed
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/play-button-unpressed.play-button-unpressed
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/settings-pressed.settings-pressed
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/settings-unpressed.settings-unpressed
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/go-back-pressed.go-back-pressed
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/go-back-unpressed.go-back-unpressed
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating ObjectRedirector /Game/MainMenu/MainMenuBlueprint.Default__MainMenuBlueprint_C
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating ObjectRedirector /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint_C
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating ObjectRedirector /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/settings-background.settings-background
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/settings-logo.settings-logo
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/slider-background.slider-background
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/slider-icon.slider-icon
+[2021.11.10-20.58.42:208][548]LogContentValidation: Display: Validating Texture2D /Game/Menus/title-leaf.title-leaf
+[2021.11.10-20.58.53:712][915]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Menus/main-background.main-background
+[2021.11.10-20.58.53:716][915]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.11.10-20.58.55:485][111]LogSlate: Window 'main-background' being destroyed
+[2021.11.10-20.58.55:490][111]LogSlate: Window 'main-background' being destroyed
+[2021.11.10-20.59.03:016][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.11.10-20.59.03:125][  2]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-20.59.04:159][  2]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-20.59.04:851][  2]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/Menus/go-back-pressed.go-back-pressed
+	Asset Name: /Game/Menus/go-back-unpressed.go-back-unpressed
+	Asset Name: /Game/Menus/jei.jei
+	Asset Name: /Game/Menus/main-background.main-background
+	Asset Name: /Game/Menus/play-button-pressed.play-button-pressed
+	Asset Name: /Game/Menus/play-button-unpressed.play-button-unpressed
+	Asset Name: /Game/Menus/settings-background.settings-background
+	Asset Name: /Game/Menus/settings-logo.settings-logo
+	Asset Name: /Game/Menus/settings-pressed.settings-pressed
+	Asset Name: /Game/Menus/settings-unpressed.settings-unpressed
+[2021.11.10-20.59.05:615][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.10-20.59.05:627][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.59.05:636][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.10-20.59.05:645][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.10-20.59.05:653][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.59.05:662][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.59.05:672][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.10-20.59.05:681][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.59.05:690][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.59.05:699][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.10-20.59.05:708][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.59.05:718][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.10-20.59.05:727][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.10-20.59.05:737][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.11.10-20.59.05:747][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.10-20.59.09:583][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.10-20.59.11:660][456]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-20.59.11:729][456]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/MainMenu/MainMenuBlueprint.Default__MainMenuBlueprint_C
+	Asset Name: /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint_C
+	Asset Name: /Game/MainMenu/MainMenuGameMode.MainMenuGameMode
+	Asset Name: /Game/MainMenu/MainMenuGameMode.Default__MainMenuGameMode_C
+	Asset Name: /Game/MainMenu/MainMenuGameMode.MainMenuGameMode_C
+	Asset Name: /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-20.59.12:002][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.11.10-20.59.22:390][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/jei': Can't find file.
+[2021.11.10-20.59.22:390][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/jei': Can't find file.
+[2021.11.10-20.59.22:390][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/main-background': Can't find file.
+[2021.11.10-20.59.22:390][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/main-background': Can't find file.
+[2021.11.10-20.59.22:390][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-pressed': Can't find file.
+[2021.11.10-20.59.22:391][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-pressed': Can't find file.
+[2021.11.10-20.59.22:391][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-unpressed': Can't find file.
+[2021.11.10-20.59.22:391][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-unpressed': Can't find file.
+[2021.11.10-20.59.22:391][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-pressed': Can't find file.
+[2021.11.10-20.59.22:391][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-pressed': Can't find file.
+[2021.11.10-20.59.22:391][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-unpressed': Can't find file.
+[2021.11.10-20.59.22:391][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-unpressed': Can't find file.
+[2021.11.10-20.59.22:392][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-pressed': Can't find file.
+[2021.11.10-20.59.22:392][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-pressed': Can't find file.
+[2021.11.10-20.59.22:392][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-unpressed': Can't find file.
+[2021.11.10-20.59.22:392][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-unpressed': Can't find file.
+[2021.11.10-20.59.22:392][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-background': Can't find file.
+[2021.11.10-20.59.22:392][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-background': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-logo': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-logo': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-background': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-background': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-icon': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-icon': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-pressed': Can't find file.
+[2021.11.10-20.59.22:393][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-pressed': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-unpressed': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/go-back-unpressed': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-background': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-background': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-logo': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/settings-logo': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-background': Can't find file.
+[2021.11.10-20.59.22:394][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-background': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-icon': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset' failed to load '/Game/Menus/slider-icon': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/title-leaf': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/title-leaf': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/jei': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/jei': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/main-background': Can't find file.
+[2021.11.10-20.59.22:395][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/main-background': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-pressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-pressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-unpressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/play-button-unpressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-pressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-pressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-unpressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/settings-unpressed': Can't find file.
+[2021.11.10-20.59.22:396][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/title-leaf': Can't find file.
+[2021.11.10-20.59.22:397][684]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset' failed to load '/Game/Menus/title-leaf': Can't find file.
+[2021.11.10-20.59.22:397][684]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint'
+[2021.11.10-20.59.22:409][684]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MainMenu/MainMenuGameMode.MainMenuGameMode'
+[2021.11.10-20.59.28:238][342]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-20.59.28:380][342]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 125 classes and 0 folders.
+[2021.11.10-20.59.29:307][342]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.10-21.00.36:519][847]BlueprintLog: New page: Compile MainMenuBlueprint
+[2021.11.10-21.00.36:564][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.11.10-21.00.36:654][847]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.10-21.00.37:041][887]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprintAAE019CD434EAFD8B877F989C039A3E5.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset'
+[2021.11.10-21.00.37:052][887]AssetCheck: New page: Asset Save: MainMenuBlueprint
+[2021.11.10-21.00.37:052][887]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-21.00.38:421][ 36]LogSlate: Window 'MainMenuBlueprint' being destroyed
+[2021.11.10-21.00.38:424][ 36]LogSlate: Window 'MainMenuBlueprint' being destroyed
+[2021.11.10-21.00.38:426][ 36]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.00.38:426][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.00.38:436][ 36]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.00.38:436][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.00.40:111][229]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.02.36:454][501]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-21.02.36:500][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.11.10-21.02.37:031][552]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget55412F6F469B9A2A04E5EFB0F393B50E.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-21.02.37:042][552]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-21.02.37:042][552]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.03.16:747][747]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-21.03.16:783][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.11.10-21.03.17:403][806]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget08E737D0453D4C27C61B80AF8109F96E.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-21.03.17:414][806]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-21.03.17:414][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.03.21:127][237]LogSlate: Window 'SettingsWidget' being destroyed
+[2021.11.10-21.03.21:132][237]LogSlate: Window 'SettingsWidget' being destroyed
+[2021.11.10-21.03.21:134][237]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.03.21:134][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.03.21:143][237]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.03.21:143][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.03.22:965][445]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-21.03.55:982][276]BlueprintLog: New page: Compile MainMenuBlueprint
+[2021.11.10-21.03.56:005][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.11.10-21.03.56:635][338]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprint5F9C079B4F59980CAADB4D8B4B6A4DA6.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset'
+[2021.11.10-21.03.56:646][338]AssetCheck: New page: Asset Save: MainMenuBlueprint
+[2021.11.10-21.03.56:646][338]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-21.04.00:373][762]LogSlate: Window 'MainMenuBlueprint' being destroyed
+[2021.11.10-21.04.00:377][762]LogSlate: Window 'MainMenuBlueprint' being destroyed
+[2021.11.10-21.04.00:380][762]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.04.00:380][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.04.00:388][762]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.04.00:388][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.05.56:263][458]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.10-21.05.56:268][458]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.10-21.05.57:308][575]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-21.05.57:316][575]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.10-21.05.57:316][575]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2021.11.10-21.05.57:384][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.10-21.05.57:387][575]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2021.11.10-21.05.57:387][575]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 10, 2021, 11:05:57 AM)
+[2021.11.10-21.05.57:388][575]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.10-21.05.57:389][575]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.10-21.05.57:389][575]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.05.57:397][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007984s)
+[2021.11.10-21.05.57:398][575]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-21.05.57:398][575]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002083CAC9C00), frame # 57575
+[2021.11.10-21.05.57:398][575]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002083C078A40), frame # 57575
+[2021.11.10-21.05.57:398][575]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2021.11.10-21.05.57:398][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009080s)
+[2021.11.10-21.05.57:437][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.11.10-21.05.57:438][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-21.05.57:438][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-21.05.57:438][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-21.05.57:438][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-21.05.57:438][575]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-21.05.57:438][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-21.05.57:438][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-21.05.57:438][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-21.05.57:439][575]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-21.05.57:439][575]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-21.05.57:443][575]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-21.05.57:443][575]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-21.05.57:457][575]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-21.05.57:458][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-21.05.57:458][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-21.05.57:458][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-21.05.57:458][575]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-21.05.57:469][575]LogInit: FAudioDevice initialized.
+[2021.11.10-21.05.57:475][575]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-21.05.57:477][575]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-16.05.57
+[2021.11.10-21.05.57:477][575]LogWorld: Bringing up level for play took: 0.000959
+[2021.11.10-21.05.57:477][575]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.11.10-21.05.57:480][575]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.11.10-21.05.57:481][575]PIE: Server logged in
+[2021.11.10-21.05.57:482][575]PIE: Play in editor total start time 0.166 seconds.
+[2021.11.10-21.06.00:119][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-21.06.00:120][856]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.06.00:120][856]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.06.00:120][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.06.00:128][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-21.06.00:131][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.06.00:166][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-21.06.00:191][856]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002083C078A40), frame # 57856
+[2021.11.10-21.06.00:191][856]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002083CAC9C00), frame # 57856
+[2021.11.10-21.06.00:194][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.11.10-21.06.00:213][857]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.11.10-21.06.05:295][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-21.06.05:295][456]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 10, 2021, 11:06:05 AM)
+[2021.11.10-21.06.05:295][456]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.06.05:303][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008142s)
+[2021.11.10-21.06.05:304][456]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-21.06.05:304][456]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002089F665600), frame # 58456
+[2021.11.10-21.06.05:304][456]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002086545FB00), frame # 58456
+[2021.11.10-21.06.05:304][456]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2021.11.10-21.06.05:304][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009420s)
+[2021.11.10-21.06.05:338][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-21.06.05:341][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-21.06.05:341][456]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-21.06.05:341][456]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-21.06.05:344][456]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-21.06.05:344][456]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-21.06.05:357][456]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-21.06.05:357][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-21.06.05:357][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-21.06.05:357][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-21.06.05:357][456]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-21.06.05:369][456]LogInit: FAudioDevice initialized.
+[2021.11.10-21.06.05:393][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-21.06.05:393][456]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-21.06.05:394][456]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-16.06.05
+[2021.11.10-21.06.05:394][456]LogWorld: Bringing up level for play took: 0.000997
+[2021.11.10-21.06.05:395][456]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.11.10-21.06.05:398][456]PIE: Server logged in
+[2021.11.10-21.06.05:399][456]PIE: Play in editor total start time 0.105 seconds.
+[2021.11.10-21.06.05:452][457]LogRenderer: Reallocating scene render targets to support 1288x720 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-21.06.10:797][926]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.10-21.06.10:797][926]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.10-21.06.10:797][926]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.06.10:797][926]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.06.10:797][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.06.10:853][926]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002086545FB00), frame # 58926
+[2021.11.10-21.06.10:853][926]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002089F665600), frame # 58926
+[2021.11.10-21.06.10:854][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.11.10-21.06.10:856][926]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.06.10:865][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008438s)
+[2021.11.10-21.06.10:866][926]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-21.06.10:866][926]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002089F664200), frame # 58926
+[2021.11.10-21.06.10:866][926]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000208598491C0), frame # 58926
+[2021.11.10-21.06.10:866][926]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2021.11.10-21.06.10:866][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009670s)
+[2021.11.10-21.06.10:866][926]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-21.06.10:876][926]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-16.06.10
+[2021.11.10-21.06.10:876][926]LogWorld: Bringing up level for play took: 0.009675
+[2021.11.10-21.06.10:878][926]LogLoad: Took 0.079932 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.11.10-21.06.12:693][143]LogSlate: Window 'CritterCollector Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.11.10-21.06.12:698][143]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.06.12:728][143]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.06.12:729][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.06.12:733][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-21.06.12:736][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.06.12:763][143]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000208598491C0), frame # 59143
+[2021.11.10-21.06.12:763][143]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002089F664200), frame # 59143
+[2021.11.10-21.06.12:765][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.11.10-21.06.12:799][146]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.11.10-21.06.24:377][473]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.11.10-21.06.24:382][473]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.11.10-21.06.58:532][327]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-21.07.23:734][293]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-21.07.23:738][293]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-21.07.38:343][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.11.10-21.07.38:367][ 31]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap319C67884918F2F4CE4038AB4F300396.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.10-21.07.38:384][ 31]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.056
+[2021.11.10-21.07.38:386][ 31]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprintF7C492C04BAB95C3CCB95E9DE8D79C1A.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset'
+[2021.11.10-21.07.38:390][ 31]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuGameMode606FD87E4FB1EFED1CD6FBAB571AF8B5.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuGameMode.uasset'
+[2021.11.10-21.07.38:404][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-21.07.38:404][ 31]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.10-21.07.38:404][ 31]LogContentValidation: Display: Validating ObjectRedirector /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint_C
+[2021.11.10-21.08.19:612][377]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint_C
+[2021.11.10-21.08.25:604][ 83]LogSlate: Window 'MainMenuBlueprint_C' being destroyed
+[2021.11.10-21.08.25:609][ 83]LogSlate: Window 'MainMenuBlueprint_C' being destroyed
+[2021.11.10-21.09.30:296][804]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.11.10-21.09.30:299][804]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.11.10-21.09.32:782][102]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.10-21.09.32:791][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-21.09.32:791][102]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 10, 2021, 11:09:32 AM)
+[2021.11.10-21.09.32:791][102]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.09.32:799][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007814s)
+[2021.11.10-21.09.32:800][102]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-21.09.32:800][102]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020888CD8E00), frame # 81102
+[2021.11.10-21.09.32:800][102]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020859B2BD80), frame # 81102
+[2021.11.10-21.09.32:800][102]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2021.11.10-21.09.32:800][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009140s)
+[2021.11.10-21.09.32:820][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.11.10-21.09.32:823][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-21.09.32:823][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-21.09.32:823][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-21.09.32:823][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-21.09.32:823][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-21.09.32:823][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-21.09.32:823][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-21.09.32:823][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-21.09.32:824][102]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-21.09.32:824][102]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-21.09.32:828][102]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-21.09.32:828][102]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-21.09.32:842][102]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-21.09.32:842][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-21.09.32:842][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-21.09.32:842][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-21.09.32:842][102]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-21.09.32:853][102]LogInit: FAudioDevice initialized.
+[2021.11.10-21.09.32:880][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-21.09.32:880][102]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-21.09.32:881][102]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-16.09.32
+[2021.11.10-21.09.32:881][102]LogWorld: Bringing up level for play took: 0.001067
+[2021.11.10-21.09.32:882][102]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.11.10-21.09.32:885][102]PIE: Server logged in
+[2021.11.10-21.09.32:886][102]PIE: Play in editor total start time 0.096 seconds.
+[2021.11.10-21.09.32:936][103]LogRenderer: Reallocating scene render targets to support 1288x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-21.09.34:537][289]LogSlate: Window 'CritterCollector Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.11.10-21.09.34:542][289]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.09.34:579][289]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.09.34:579][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.09.34:586][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-21.09.34:589][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.09.34:616][289]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020859B2BD80), frame # 81289
+[2021.11.10-21.09.34:616][289]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020888CD8E00), frame # 81289
+[2021.11.10-21.09.34:618][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.10-21.09.34:645][291]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.11.10-21.10.02:537][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Menus/MainMenuGameMode.MainMenuGameMode
+[2021.11.10-21.10.02:837][623]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2021.11.10-21.10.02:863][623]LogSlate: The tab "CompilerResults" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.11.10-21.10.07:936][133]LogSlate: Window 'CompilerResults' being destroyed
+[2021.11.10-21.10.07:940][133]LogSlate: Window 'CompilerResults' being destroyed
+[2021.11.10-21.10.16:736][178]LogSlate: Window 'MainMenuGameMode' being destroyed
+[2021.11.10-21.10.16:740][178]LogSlate: Window 'MainMenuGameMode' being destroyed
+[2021.11.10-21.10.16:748][178]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.10.16:748][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.10.18:562][389]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuGameMode3A4AD8AB430FA2B833DFFFBEAE7B25CA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuGameMode.uasset'
+[2021.11.10-21.10.18:571][389]AssetCheck: New page: Asset Save: MainMenuGameMode
+[2021.11.10-21.10.18:571][389]LogContentValidation: Display: Validating Blueprint /Game/Menus/MainMenuGameMode.MainMenuGameMode
+[2021.11.10-21.10.26:619][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.11.10-21.10.31:317][351]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-21.10.31:449][351]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint_C
+[2021.11.10-21.10.31:692][351]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.10-21.10.32:243][351]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.551 s
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: 
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: Cannot remove redirection from /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint_C, it was not registered
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: Stack: 
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff47dcbfc8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff479e06b1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff4f42d25e UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff3205bd0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff32066949 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff31819e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff31abd43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff31ab6dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff415e207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff415fb27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff41442dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff414c69cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff414af4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff414a2392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff70057f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff70045c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff7005a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff700417d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff7c2ae7e8 USER32.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff7c2ae229 USER32.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff7005b9d9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff414d0d5d UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff4146bdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff31b4f00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff3205af1c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff0cabd838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff0cac9f94 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff0cac5722 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff0cb27f72 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff0cac6847 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff415e207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff415fb27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff41442dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:243][351]LogOutputDevice: Error: [Callstack] 0x00007fff414c69cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff414af4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff414a2392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff70057f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff70045c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff7005a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff700417d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff7c2ae7e8 USER32.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff7c2ae229 USER32.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff7005bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007ff72fae68c4 UE4Editor.exe!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007ff72fafba7c UE4Editor.exe!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007ff72fafbb5a UE4Editor.exe!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007ff72fb0e31d UE4Editor.exe!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007ff72fb1145a UE4Editor.exe!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff7c1f7034 KERNEL32.DLL!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: [Callstack] 0x00007fff7c742651 ntdll.dll!UnknownFunction []
+[2021.11.10-21.10.32:244][351]LogOutputDevice: Error: 
