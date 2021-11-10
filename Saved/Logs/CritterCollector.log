@@ -2163,3 +2163,279 @@ Script Stack (0 frames):
 [2021.11.10-22.36.55:646][716]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000208FE2B8E00), frame # 303716
 [2021.11.10-22.36.55:647][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2021.11.10-22.36.55:670][717]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.11.10-22.45.37:020][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.11.10-22.45.37:051][365]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_Auto44E8E1D604238E04D96A7CD9C1A76613C.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2021.11.10-22.45.37:052][365]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.055
+[2021.11.10-22.45.37:052][365]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.055
+[2021.11.10-22.45.37:053][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/MainMenuBlueprint] ([1] browsable assets)...
+[2021.11.10-22.45.37:053][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/MainMenuBlueprint]
+[2021.11.10-22.45.37:063][365]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprint_Auto4BDE98C094B362FD142BAA69595AAA5C9.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/Menus/MainMenuBlueprint_Auto4.uasset'
+[2021.11.10-22.45.37:064][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/SettingsWidget] ([1] browsable assets)...
+[2021.11.10-22.45.37:064][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/SettingsWidget]
+[2021.11.10-22.45.37:081][365]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget_Auto4C5DA5DC54D892A8EC9E9E2A9317DE864.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/Menus/SettingsWidget_Auto4.uasset'
+[2021.11.10-22.45.37:082][365]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.11.10-22.49.19:267][105]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Barry C\Downloads\ES_Multimedia 770 - SFX Producer.wav)
+[2021.11.10-22.49.19:279][105]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ES_Multimedia_770_-_SFX_Producer...
+[2021.11.10-22.49.19:279][105]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/ES_Multimedia_770_-_SFX_Producer.ES_Multimedia_770_-_SFX_Producer will be modified from 40 to 40.
+[2021.11.10-22.49.19:300][105]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 190464 while cooking SoundWave /Game/Assets/ES_Multimedia_770_-_SFX_Producer.ES_Multimedia_770_-_SFX_Producer.
+[2021.11.10-22.49.26:414][916]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Assets/ES_Multimedia_770_-_SFX_Producer.ES_Multimedia_770_-_SFX_Producer
+[2021.11.10-22.49.44:518][814]LogSlate: Window 'Save Asset As' being destroyed
+[2021.11.10-22.49.52:942][812]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ES_Multimedia_770_-_SFX_Producer81A1909640C89FE004B79EA101FA5121.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/ES_Multimedia_770_-_SFX_Producer.uasset'
+[2021.11.10-22.49.52:953][812]AssetCheck: New page: Asset Save: ES_Multimedia_770_-_SFX_Producer
+[2021.11.10-22.49.52:953][812]LogContentValidation: Display: Validating SoundWave /Game/Assets/ES_Multimedia_770_-_SFX_Producer.ES_Multimedia_770_-_SFX_Producer
+[2021.11.10-22.55.37:644][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.11.10-22.55.37:646][640]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2021.11.10-22.55.37:646][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/ES_Multimedia_770_-_SFX_Producer_Cue] ([1] browsable assets)...
+[2021.11.10-22.55.37:646][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/ES_Multimedia_770_-_SFX_Producer_Cue]
+[2021.11.10-22.55.37:648][640]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ES_Multimedia_770_-_SFX_ProducerD803DB3643B0E36CD234659ABB7B76E6.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/Assets/ES_Multimedia_770_-_SFX_Producer_Cue_Auto5.uasset'
+[2021.11.10-22.55.37:649][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFXSoundClass] ([1] browsable assets)...
+[2021.11.10-22.55.37:649][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFXSoundClass]
+[2021.11.10-22.55.37:651][640]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SFXSoundClass_Auto5CA48FA2B45CCE85C4EFD828958425DF3.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/SFXSoundClass_Auto5.uasset'
+[2021.11.10-22.55.37:652][640]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.11.10-22.58.27:152][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.10-22.58.27:191][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.11.10-22.58.27:218][297]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap86119D2D45A2625F9E2DF49FA762F5BC.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.10-22.58.27:235][297]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.065
+[2021.11.10-22.58.27:302][297]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_BuiltData20BA400D4BB57195A298FA96D1DCA1C1.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.10-22.58.27:313][297]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprint4C3D12DB4A2E8A66D3E540B6A8D287AA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset'
+[2021.11.10-22.58.27:330][297]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget784596564797CF34E4B0138366C8403A.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-22.58.27:334][297]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ES_Multimedia_770_-_SFX_Producer0086390E46241FB16896F881AD1DD92C.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/ES_Multimedia_770_-_SFX_Producer_Cue.uasset'
+[2021.11.10-22.58.27:338][297]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SFXSoundClass109FD1754B37E81394E72C9B0F79588B.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/SFXSoundClass.uasset'
+[2021.11.10-22.58.27:368][297]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-22.58.27:368][297]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.10-22.58.27:368][297]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.10-22.58.27:368][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-22.58.27:369][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-22.58.27:369][297]LogContentValidation: Display: Validating SoundCue /Game/Assets/ES_Multimedia_770_-_SFX_Producer_Cue.ES_Multimedia_770_-_SFX_Producer_Cue
+[2021.11.10-22.58.27:369][297]LogContentValidation: Display: Validating SoundClass /Game/SFXSoundClass.SFXSoundClass
+[2021.11.10-22.58.29:672][556]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-22.58.29:706][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.11.10-22.58.30:268][602]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidgetC1188FE544AD20912D01B4ACCEF49437.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-22.58.30:278][602]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-22.58.30:278][602]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-22.58.47:040][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Downloads\update-unpressed.png)
+[2021.11.10-22.58.47:050][599]LogTexture: Display: Building textures: update-unpressed (BGRA8, 1056X470)
+[2021.11.10-22.58.47:068][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Downloads\Update-pressed.png)
+[2021.11.10-22.58.47:075][599]LogTexture: Display: Building textures: Update-pressed (BGRA8, 1056X470)
+[2021.11.10-22.58.51:344][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.11.10-22.58.51:367][791]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap3B535D8F457C01C30DAC909CCB6A4A4F.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.10-22.58.51:443][791]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_BuiltData312B857044064861A79DDFB85887A6DD.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.10-22.58.51:456][791]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-22.58.51:457][791]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.10-22.58.51:457][791]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.10-22.58.53:607][ 42]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Update-pressed46D2AC714F2BD1D510BB2EA132579CFA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/Update-pressed.uasset'
+[2021.11.10-22.58.53:621][ 42]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/update-unpressed7A0ADC8F4B389C11C03755A2BBD02647.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/update-unpressed.uasset'
+[2021.11.10-22.58.53:637][ 42]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-22.58.53:637][ 42]LogContentValidation: Display: Validating Texture2D /Game/Assets/Update-pressed.Update-pressed
+[2021.11.10-22.58.53:637][ 42]LogContentValidation: Display: Validating Texture2D /Game/Assets/update-unpressed.update-unpressed
+[2021.11.10-22.59.54:892][163]LogSlate: Took 0.014636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.10-23.09.28:443][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.11.10-23.09.28:446][109]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2021.11.10-23.09.28:446][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/SettingsWidget] ([1] browsable assets)...
+[2021.11.10-23.09.28:446][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/SettingsWidget]
+[2021.11.10-23.09.28:464][109]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget_Auto6849652A64BC14C6793CD06A0AA12C191.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/Menus/SettingsWidget_Auto6.uasset'
+[2021.11.10-23.09.28:465][109]LogFileHelpers: Auto-saving content packages took 0.019
+[2021.11.10-23.10.18:418][624]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-23.10.18:450][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.11.10-23.10.19:452][716]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget12EF75674EDDE119C1F346ADBEE14094.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-23.10.19:462][716]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-23.10.19:462][716]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-23.10.35:635][195]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.10-23.10.35:645][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-23.10.35:645][195]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 10, 2021, 1:10:35 PM)
+[2021.11.10-23.10.35:645][195]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.10.35:655][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009615s)
+[2021.11.10-23.10.35:656][195]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-23.10.35:656][195]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208EBC95600), frame # 438195
+[2021.11.10-23.10.35:656][195]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002089382DBC0), frame # 438195
+[2021.11.10-23.10.35:656][195]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2021.11.10-23.10.35:656][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011254s)
+[2021.11.10-23.10.35:684][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-23.10.35:686][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-23.10.35:686][195]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-23.10.35:686][195]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-23.10.35:690][195]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-23.10.35:690][195]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-23.10.35:704][195]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-23.10.35:704][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-23.10.35:705][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-23.10.35:705][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-23.10.35:705][195]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-23.10.35:716][195]LogInit: FAudioDevice initialized.
+[2021.11.10-23.10.35:741][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-23.10.35:741][195]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-23.10.35:743][195]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-18.10.35
+[2021.11.10-23.10.35:744][195]LogWorld: Bringing up level for play took: 0.001671
+[2021.11.10-23.10.35:744][195]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.11.10-23.10.35:752][195]PIE: Server logged in
+[2021.11.10-23.10.35:754][195]PIE: Play in editor total start time 0.109 seconds.
+[2021.11.10-23.10.48:370][518]LogSlate: Window 'CritterCollector Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.11.10-23.10.48:376][518]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.10.48:414][518]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-23.10.48:415][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.10.48:419][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-23.10.48:421][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.10.48:457][518]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002089382DBC0), frame # 439518
+[2021.11.10-23.10.48:457][518]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000208EBC95600), frame # 439518
+[2021.11.10-23.10.48:459][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.11.10-23.10.48:486][519]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.11.10-23.11.07:179][635]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-23.11.07:209][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.11.10-23.11.07:749][680]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget3BC3C35B4303D3B234CD1F89D0719B7C.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-23.11.07:760][680]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-23.11.07:760][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-23.11.10:243][957]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.10-23.11.10:253][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-23.11.10:253][957]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 10, 2021, 1:11:10 PM)
+[2021.11.10-23.11.10:253][957]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.11.10:261][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007928s)
+[2021.11.10-23.11.10:261][957]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-23.11.10:261][957]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208E1293800), frame # 441957
+[2021.11.10-23.11.10:261][957]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002089382CB80), frame # 441957
+[2021.11.10-23.11.10:262][957]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2021.11.10-23.11.10:262][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008835s)
+[2021.11.10-23.11.10:285][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.11.10-23.11.10:286][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-23.11.10:286][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-23.11.10:286][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-23.11.10:286][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-23.11.10:286][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-23.11.10:286][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-23.11.10:286][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-23.11.10:286][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-23.11.10:287][957]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-23.11.10:287][957]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-23.11.10:290][957]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-23.11.10:290][957]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-23.11.10:302][957]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-23.11.10:302][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-23.11.10:302][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-23.11.10:302][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-23.11.10:302][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-23.11.10:303][957]LogInit: FAudioDevice initialized.
+[2021.11.10-23.11.10:321][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-23.11.10:321][957]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-23.11.10:322][957]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-18.11.10
+[2021.11.10-23.11.10:322][957]LogWorld: Bringing up level for play took: 0.001001
+[2021.11.10-23.11.10:323][957]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.11.10-23.11.10:327][957]PIE: Server logged in
+[2021.11.10-23.11.10:329][957]PIE: Play in editor total start time 0.077 seconds.
+[2021.11.10-23.11.14:929][426]LogSlate: Window 'CritterCollector Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.11.10-23.11.14:935][426]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.11.14:975][426]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-23.11.14:975][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.11.14:980][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-23.11.14:983][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.11.15:019][426]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002089382CB80), frame # 442426
+[2021.11.10-23.11.15:019][426]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000208E1293800), frame # 442426
+[2021.11.10-23.11.15:021][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.11.10-23.11.15:047][427]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.11.10-23.11.22:778][307]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-23.11.22:807][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.10-23.11.23:361][355]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidgetE989E96847097042AB7FC59E68CCA4B2.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-23.11.23:373][355]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-23.11.23:373][355]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-23.12.02:563][835]BlueprintLog: New page: Compile MainMenuBlueprint
+[2021.11.10-23.12.02:595][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.11.10-23.12.03:063][867]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprintE1AB5CDB47DB0D64E21A27A55B211EDC.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/MainMenuBlueprint.uasset'
+[2021.11.10-23.12.03:075][867]AssetCheck: New page: Asset Save: MainMenuBlueprint
+[2021.11.10-23.12.03:075][867]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-23.12.51:799][358]LogEditorTransaction: Undo Move Widget
+[2021.11.10-23.19.27:494][ 77]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-23.19.27:532][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.11.10-23.19.28:136][125]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidgetBBDFDCB34A82E6261D352596E9C28639.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-23.19.28:148][125]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-23.19.28:149][125]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-23.19.33:846][757]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.10-23.19.33:856][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-23.19.33:856][757]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 10, 2021, 1:19:33 PM)
+[2021.11.10-23.19.33:856][757]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.19.33:865][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008578s)
+[2021.11.10-23.19.33:866][757]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-23.19.33:866][757]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208F9C9FA00), frame # 499757
+[2021.11.10-23.19.33:866][757]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002089382EFC0), frame # 499757
+[2021.11.10-23.19.33:866][757]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2021.11.10-23.19.33:866][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009724s)
+[2021.11.10-23.19.33:891][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.10-23.19.33:893][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-23.19.33:893][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-23.19.33:893][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-23.19.33:893][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-23.19.33:893][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-23.19.33:893][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-23.19.33:893][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-23.19.33:893][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-23.19.33:894][757]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-23.19.33:894][757]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-23.19.33:898][757]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-23.19.33:898][757]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-23.19.33:912][757]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-23.19.33:912][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-23.19.33:912][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-23.19.33:912][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-23.19.33:912][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-23.19.33:913][757]LogInit: FAudioDevice initialized.
+[2021.11.10-23.19.33:940][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-23.19.33:940][757]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-23.19.33:942][757]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-18.19.33
+[2021.11.10-23.19.33:942][757]LogWorld: Bringing up level for play took: 0.001308
+[2021.11.10-23.19.33:942][757]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.11.10-23.19.33:947][757]PIE: Server logged in
+[2021.11.10-23.19.33:948][757]PIE: Play in editor total start time 0.093 seconds.
+[2021.11.10-23.19.37:061][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-23.19.37:061][ 64]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.10-23.19.37:061][ 64]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.10-23.19.37:061][ 64]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.19.37:062][ 64]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-23.19.37:062][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.19.37:104][ 64]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002089382EFC0), frame # 500064
+[2021.11.10-23.19.37:104][ 64]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000208F9C9FA00), frame # 500064
+[2021.11.10-23.19.37:105][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.11.10-23.19.37:107][ 64]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.19.37:115][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008073s)
+[2021.11.10-23.19.37:115][ 64]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-23.19.37:116][ 64]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208F6DB5800), frame # 500064
+[2021.11.10-23.19.37:116][ 64]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020894A9DD00), frame # 500064
+[2021.11.10-23.19.37:116][ 64]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2021.11.10-23.19.37:116][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009063s)
+[2021.11.10-23.19.37:116][ 64]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-23.19.37:124][ 64]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-18.19.37
+[2021.11.10-23.19.37:124][ 64]LogWorld: Bringing up level for play took: 0.007388
+[2021.11.10-23.19.37:125][ 64]LogLoad: Took 0.063977 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.11.10-23.19.38:973][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-23.19.38:974][250]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.10-23.19.38:974][250]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.10-23.19.38:974][250]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.19.38:974][250]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-23.19.38:974][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.19.39:024][250]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020894A9DD00), frame # 500250
+[2021.11.10-23.19.39:024][250]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000208F6DB5800), frame # 500250
+[2021.11.10-23.19.39:025][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.11.10-23.19.39:026][250]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.19.39:034][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007979s)
+[2021.11.10-23.19.39:035][250]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-23.19.39:035][250]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000208EC1B8200), frame # 500250
+[2021.11.10-23.19.39:035][250]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000208EA8BC900), frame # 500250
+[2021.11.10-23.19.39:035][250]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2021.11.10-23.19.39:035][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008899s)
+[2021.11.10-23.19.39:035][250]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-23.19.39:042][250]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-18.19.39
+[2021.11.10-23.19.39:042][250]LogWorld: Bringing up level for play took: 0.006154
+[2021.11.10-23.19.39:043][250]LogLoad: Took 0.070019 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.11.10-23.19.46:220][926]LogSlate: Window 'CritterCollector Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.11.10-23.19.46:226][926]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-23.19.46:264][926]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-23.19.46:264][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.19.46:269][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-23.19.46:272][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-23.19.46:306][926]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000208EA8BC900), frame # 500926
+[2021.11.10-23.19.46:306][926]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000208EC1B8200), frame # 500926
+[2021.11.10-23.19.46:308][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.11.10-23.19.46:368][927]LogPlayLevel: Display: Destroying online subsystem :Context_37
