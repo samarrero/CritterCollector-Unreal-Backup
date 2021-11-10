@@ -1607,3 +1607,158 @@ Script Stack (0 frames):
 [2021.11.10-21.16.35:184][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.11.10-21.16.35:188][994]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2021.11.10-21.16.35:188][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.17.57:856][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.10-21.17.58:582][451]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (easy-lemon)
+[2021.11.10-21.18.00:494][677]Cmd: DELETE
+[2021.11.10-21.18.00:494][677]Cmd: ACTOR DELETE
+[2021.11.10-21.18.00:495][677]LogEditorActor: Deleted Actor: AmbientSound
+[2021.11.10-21.18.00:514][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.11.10-21.18.00:516][677]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.11.10-21.18.14:389][ 25]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Assets/easy-lemon_Cue.easy-lemon_Cue
+[2021.11.10-21.19.16:722][811]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/easy-lemon_CueD2992CB6401D51D2E975BF99AC6DF558.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Assets/easy-lemon_Cue.uasset'
+[2021.11.10-21.19.16:735][811]AssetCheck: New page: Asset Save: easy-lemon_Cue
+[2021.11.10-21.19.16:735][811]LogContentValidation: Display: Validating SoundCue /Game/Assets/easy-lemon_Cue.easy-lemon_Cue
+[2021.11.10-21.19.19:171][988]LogSlate: Window 'easy-lemon_Cue' being destroyed
+[2021.11.10-21.19.19:175][988]LogSlate: Window 'easy-lemon_Cue' being destroyed
+[2021.11.10-21.20.19:227][550]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.20.25:430][234]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget782EEA1540C68D6FFF938DAF35FE59E2.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-21.20.25:439][234]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-21.20.25:439][234]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.20.25:926][290]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-21.20.25:959][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.11.10-21.22.24:155][315]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget845A8E414518B821CE0026B6F744A3EA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-21.22.24:168][315]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-21.22.24:168][315]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.22.24:583][363]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-21.22.24:612][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.11.10-21.22.26:507][551]LogSlate: Window 'SettingsWidget' being destroyed
+[2021.11.10-21.22.26:511][551]LogSlate: Window 'SettingsWidget' being destroyed
+[2021.11.10-21.22.26:513][551]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.22.26:513][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.22.26:527][551]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.22.26:528][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.24.28:400][404]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/NewSoundMix.NewSoundMix
+[2021.11.10-21.25.03:920][600]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/NewSoundMix6E27C7E14A7894748854888649243E8B.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/NewSoundMix.uasset'
+[2021.11.10-21.25.03:931][600]AssetCheck: New page: Asset Save: NewSoundMix
+[2021.11.10-21.25.03:931][600]LogContentValidation: Display: Validating SoundMix /Game/NewSoundMix.NewSoundMix
+[2021.11.10-21.25.04:823][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.10-21.25.04:853][696]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_Auto1F3D001DB4F8CD30CD7A05CB5DD134959.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.11.10-21.25.04:855][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.050
+[2021.11.10-21.25.04:855][696]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.050
+[2021.11.10-21.25.05:255][743]LogSlate: Window 'NewSoundMix' being destroyed
+[2021.11.10-21.25.05:259][743]LogSlate: Window 'NewSoundMix' being destroyed
+[2021.11.10-21.25.14:821][875]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Assets/easy-lemon.easy-lemon
+[2021.11.10-21.25.21:207][618]LogSlate: Window 'easy-lemon' being destroyed
+[2021.11.10-21.25.21:211][618]LogSlate: Window 'easy-lemon' being destroyed
+[2021.11.10-21.25.46:180][595]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.43.07:561][825]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.11.10-21.43.16:071][825]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.10-21.43.24:011][740]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SaveGame1BA8125342D6F1A653CC8A92FFCE95A1.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SaveGame.uasset'
+[2021.11.10-21.43.24:022][740]AssetCheck: New page: Asset Save: SaveGame
+[2021.11.10-21.43.24:022][740]LogContentValidation: Display: Validating Blueprint /Game/Menus/SaveGame.SaveGame
+[2021.11.10-21.43.30:856][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.10-21.43.30:858][553]LogMetaData: Removing '/Game/Menus/SaveGameSettings.SKEL_SaveGameSettings_C' ref from Metadata '/Game/Menus/SaveGame.PackageMetaData'
+[2021.11.10-21.43.30:858][553]LogMetaData: Removing '/Game/Menus/SaveGameSettings.SaveGameSettings_C' ref from Metadata '/Game/Menus/SaveGame.PackageMetaData'
+[2021.11.10-21.43.30:877][553]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SaveGameSettings798EDEB64FBC833734BF47BA268F285F.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SaveGameSettings.uasset'
+[2021.11.10-21.43.30:990][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.11.10-21.43.31:012][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.11.10-21.43.31:029][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.10-21.43.31:056][553]AssetCheck: New page: Asset Save: SaveGameSettings
+[2021.11.10-21.43.31:056][553]LogContentValidation: Display: Validating Blueprint /Game/Menus/SaveGameSettings.SaveGameSettings
+[2021.11.10-21.43.35:147][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Menus/SaveGameSettings.SaveGameSettings
+[2021.11.10-21.43.58:500][318]LogSlate: Took 0.005423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.10-21.44.24:096][215]BlueprintLog: New page: Compile SaveGameSettings
+[2021.11.10-21.44.24:117][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.11.10-21.44.24:738][280]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SaveGameSettings36BB85EE4F01514ADDE930A1FF260ECB.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SaveGameSettings.uasset'
+[2021.11.10-21.44.24:747][280]AssetCheck: New page: Asset Save: SaveGameSettings
+[2021.11.10-21.44.24:747][280]LogContentValidation: Display: Validating Blueprint /Game/Menus/SaveGameSettings.SaveGameSettings
+[2021.11.10-21.44.47:869][214]BlueprintLog: New page: Compile SaveGameSettings
+[2021.11.10-21.44.47:890][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.11.10-21.44.48:643][295]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SaveGameSettings4BE4245E406276736A5413AFFCF17990.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SaveGameSettings.uasset'
+[2021.11.10-21.44.48:652][295]AssetCheck: New page: Asset Save: SaveGameSettings
+[2021.11.10-21.44.48:652][295]LogContentValidation: Display: Validating Blueprint /Game/Menus/SaveGameSettings.SaveGameSettings
+[2021.11.10-21.45.51:447][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.11.10-21.45.51:470][646]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_Auto2D917307A41606ECD88D82393C5DB809D.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.11.10-21.45.51:472][646]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2021.11.10-21.45.51:472][646]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.046
+[2021.11.10-21.51.33:640][ 23]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-21.51.33:673][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.11.10-21.51.34:155][ 72]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget745C5300484C582555E3E5B2150B1F5D.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-21.51.34:165][ 72]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-21.51.34:165][ 72]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.51.40:752][573]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.10-21.51.40:762][573]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.10-21.51.40:762][573]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2021.11.10-21.51.40:792][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.11.10-21.51.40:793][573]LogPlayLevel: PlayLevel: Blueprint regeneration took 30 ms (1 blueprints)
+[2021.11.10-21.51.40:793][573]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 10, 2021, 11:51:40 AM)
+[2021.11.10-21.51.40:793][573]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.51.40:802][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009176s)
+[2021.11.10-21.51.40:803][573]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-21.51.40:803][573]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020853780800), frame # 196573
+[2021.11.10-21.51.40:803][573]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002088E6179C0), frame # 196573
+[2021.11.10-21.51.40:803][573]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2021.11.10-21.51.40:803][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010365s)
+[2021.11.10-21.51.40:824][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-21.51.40:825][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-21.51.40:825][573]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-21.51.40:825][573]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-21.51.40:829][573]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-21.51.40:829][573]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-21.51.40:843][573]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.11.10-21.51.40:843][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-21.51.40:843][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-21.51.40:843][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-21.51.40:843][573]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-21.51.40:855][573]LogInit: FAudioDevice initialized.
+[2021.11.10-21.51.40:879][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-21.51.40:879][573]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-21.51.40:881][573]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.10-16.51.40
+[2021.11.10-21.51.40:881][573]LogWorld: Bringing up level for play took: 0.001066
+[2021.11.10-21.51.40:881][573]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.11.10-21.51.40:885][573]PIE: Server logged in
+[2021.11.10-21.51.40:887][573]PIE: Play in editor total start time 0.126 seconds.
+[2021.11.10-21.51.45:150][ 72]LogSlate: Window 'CritterCollector Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.11.10-21.51.45:156][ 72]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-21.51.45:207][ 72]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-21.51.45:207][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.51.45:214][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-21.51.45:217][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-21.51.45:252][ 72]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002088E6179C0), frame # 197072
+[2021.11.10-21.51.45:252][ 72]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020853780800), frame # 197072
+[2021.11.10-21.51.45:253][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.11.10-21.51.45:257][ 72]LogActorComponent: ReregisterComponent: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.easy-lemon_2.AudioComponent0) Not currently registered. Aborting.
+[2021.11.10-21.51.45:274][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.11.10-21.52.32:569][420]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-21.54.59:718][863]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-21.54.59:753][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.10-21.55.00:284][919]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidgetBE489DCB4DFED3D646B57C83CAF78DBD.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-21.55.00:295][919]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-21.55.00:295][919]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-21.58.34:632][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.11.10-21.58.34:657][710]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_Auto3A8315D5A4E4EE9D244A838B000D2A13E.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.11.10-21.58.34:659][710]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.050
+[2021.11.10-21.58.34:659][710]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.050
+[2021.11.10-21.58.34:659][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/SettingsWidget] ([1] browsable assets)...
+[2021.11.10-21.58.34:659][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/SettingsWidget]
+[2021.11.10-21.58.34:674][710]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget_Auto3B1C6B42D4FE0602D5C0F768B183B091F.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/Menus/SettingsWidget_Auto3.uasset'
+[2021.11.10-21.58.34:675][710]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.11.10-22.06.10:094][185]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-22.06.10:135][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.11.10-22.06.10:862][263]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidgetD4F039FF469AF79B5A3D41AF24DF5FE2.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/Menus/SettingsWidget.uasset'
+[2021.11.10-22.06.10:873][263]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-22.06.10:874][263]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menus/SettingsWidget.SettingsWidget
+[2021.11.10-22.06.28:425][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.11.10-22.06.28:449][967]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap6461A8F045841ECE8061BDA5AFA7C375.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.10-22.06.28:467][967]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.063
+[2021.11.10-22.06.28:533][967]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_BuiltData93227EC44032CD8F782A0D98921EA3D5.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.10-22.06.28:553][967]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-22.06.28:553][967]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.10-22.06.28:553][967]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
