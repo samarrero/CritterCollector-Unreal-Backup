@@ -1067,3 +1067,258 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.09-21.19.06:307][992]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002740F25FE00), frame # 130992
 [2021.11.09-21.19.06:309][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2021.11.09-21.19.06:345][995]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.09-21.20.16:346][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.11.09-21.20.16:369][653]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_Auto287B2EBAD4074385B83CE7F83D07C33F9.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.11.09-21.20.16:370][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2021.11.09-21.20.16:370][653]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.041
+[2021.11.09-23.50.39:407][ 18]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2021.11.09-23.51.06:116][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.11.09-23.51.06:125][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.028
+[2021.11.09-23.51.06:125][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/MainMenuBlueprint] ([1] browsable assets)...
+[2021.11.09-23.51.06:125][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/MainMenuBlueprint]
+[2021.11.09-23.51.06:145][709]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprint_Auto31EB06B6343DF8345713C7EA636018ABA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/MainMenuBlueprint_Auto3.uasset'
+[2021.11.09-23.51.06:146][709]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.11.09-23.51.10:192][190]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2021.11.09-23.56.26:978][454]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/SettingsWidget.SettingsWidget
+[2021.11.09-23.57.49:668][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\settings-logo.png)
+[2021.11.09-23.57.49:674][543]LogTexture: Display: Building textures: settings-logo (BGRA8, 1003X396)
+[2021.11.09-23.57.49:686][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\go-back-pressed.png)
+[2021.11.09-23.57.49:693][543]LogTexture: Display: Building textures: go-back-pressed (BGRA8, 1056X470)
+[2021.11.09-23.57.49:705][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\go-back-unpressed.png)
+[2021.11.09-23.57.49:711][543]LogTexture: Display: Building textures: go-back-unpressed (BGRA8, 1056X470)
+[2021.11.09-23.57.49:723][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\settings-background.jpg)
+[2021.11.09-23.57.49:745][543]LogTexture: Display: Building textures: settings-background (BGRA8, 1125X2436)
+[2021.11.09-23.58.00:793][609]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\slider-background.png)
+[2021.11.09-23.58.00:795][609]LogTexture: Display: Building textures: slider-background (BGRA8, 977X68)
+[2021.11.09-23.58.00:801][609]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Barry C\Documents\School\Classes\CIS 4914 Senior Project\CritterCollector-Godot\CritterCollector-Godot\assets\images\slider-icon.png)
+[2021.11.09-23.58.00:802][609]LogTexture: Display: Building textures: slider-icon (AutoDXT, 64X64)
+[2021.11.10-00.05.57:560][535]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.10-00.09.54:107][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.10-00.09.54:110][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2021.11.10-00.09.54:110][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/MainMenuBlueprint] ([1] browsable assets)...
+[2021.11.10-00.09.54:110][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/MainMenuBlueprint]
+[2021.11.10-00.09.54:116][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprint_Auto47B096EFF4C81AF3E73D766A165EA032F.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/MainMenuBlueprint_Auto4.uasset'
+[2021.11.10-00.09.54:118][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/SettingsWidget] ([1] browsable assets)...
+[2021.11.10-00.09.54:118][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/SettingsWidget]
+[2021.11.10-00.09.54:122][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget_Auto4C7E90C3542597054BFC7F5AA0AD3F7F4.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/SettingsWidget_Auto4.uasset'
+[2021.11.10-00.09.54:123][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainMenu/settings-logo] ([1] browsable assets)...
+[2021.11.10-00.09.54:126][ 56]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MainMenu/settings-logo.settings-logo]
+[2021.11.10-00.09.54:126][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/settings-logo]
+[2021.11.10-00.09.54:129][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-logo_Auto4FA27EE6B4CF0907D71F4A88F95BAF57E.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/settings-logo_Auto4.uasset'
+[2021.11.10-00.09.54:130][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainMenu/go-back-pressed] ([1] browsable assets)...
+[2021.11.10-00.09.54:133][ 56]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MainMenu/go-back-pressed.go-back-pressed]
+[2021.11.10-00.09.54:133][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/go-back-pressed]
+[2021.11.10-00.09.54:135][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-pressed_Auto422DE80B444D05372792DFFB3261F24E5.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/go-back-pressed_Auto4.uasset'
+[2021.11.10-00.09.54:137][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainMenu/go-back-unpressed] ([1] browsable assets)...
+[2021.11.10-00.09.54:139][ 56]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MainMenu/go-back-unpressed.go-back-unpressed]
+[2021.11.10-00.09.54:139][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/go-back-unpressed]
+[2021.11.10-00.09.54:142][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-unpressed_Auto4DD0F2D454EAF33963072D1A47B70BA29.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/go-back-unpressed_Auto4.uasset'
+[2021.11.10-00.09.54:143][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainMenu/settings-background] ([1] browsable assets)...
+[2021.11.10-00.09.54:146][ 56]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MainMenu/settings-background.settings-background]
+[2021.11.10-00.09.54:146][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/settings-background]
+[2021.11.10-00.09.54:151][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-background_Auto46A5391DD413F2C37E98E419C98AC5E7C.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/settings-background_Auto4.uasset'
+[2021.11.10-00.09.54:152][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainMenu/slider-background] ([1] browsable assets)...
+[2021.11.10-00.09.54:154][ 56]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MainMenu/slider-background.slider-background]
+[2021.11.10-00.09.54:154][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/slider-background]
+[2021.11.10-00.09.54:155][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-background_Auto4141539554162A715E297AE886A47575B.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/slider-background_Auto4.uasset'
+[2021.11.10-00.09.54:156][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainMenu/slider-icon] ([1] browsable assets)...
+[2021.11.10-00.09.54:157][ 56]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MainMenu/slider-icon.slider-icon]
+[2021.11.10-00.09.54:157][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/slider-icon]
+[2021.11.10-00.09.54:159][ 56]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-icon_Auto4916FECBF452BA8F228262DB05E4B249C.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/MainMenu/slider-icon_Auto4.uasset'
+[2021.11.10-00.09.54:160][ 56]LogFileHelpers: Auto-saving content packages took 0.050
+[2021.11.10-00.11.44:894][164]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-00.12.10:572][801]BlueprintLog: New page: Compile MainMenuBlueprint
+[2021.11.10-00.12.10:594][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.11.10-00.12.11:427][895]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuBlueprint20D6C7CC434776A6B1FCD3BB4AD51CBB.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset'
+[2021.11.10-00.12.11:437][895]AssetCheck: New page: Asset Save: MainMenuBlueprint
+[2021.11.10-00.12.11:437][895]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuBlueprint.MainMenuBlueprint
+[2021.11.10-00.12.46:127][278]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-00.13.51:878][840]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget3E355E8C4003347D613391A0E4FFA6A9.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset'
+[2021.11.10-00.13.51:891][840]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-00.13.51:891][840]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/SettingsWidget.SettingsWidget
+[2021.11.10-00.13.53:095][982]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/SettingsWidget503EED964C8A44B46C389197DFEADED0.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset'
+[2021.11.10-00.13.53:105][982]AssetCheck: New page: Asset Save: SettingsWidget
+[2021.11.10-00.13.53:105][982]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/SettingsWidget.SettingsWidget
+[2021.11.10-00.13.53:907][ 78]BlueprintLog: New page: Compile SettingsWidget
+[2021.11.10-00.13.53:932][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.11.10-00.15.21:289][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.10-00.15.40:827][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.11.10-00.15.40:830][ 74]LogMetaData: Removing '/Game/MainMenu/MainMenuGameMode.SKEL_MainMenuGameMode_C' ref from Metadata '/Game/MainMenu/ThirdPersonGameMode.PackageMetaData'
+[2021.11.10-00.15.40:830][ 74]LogMetaData: Removing '/Game/MainMenu/MainMenuGameMode.MainMenuGameMode_C' ref from Metadata '/Game/MainMenu/ThirdPersonGameMode.PackageMetaData'
+[2021.11.10-00.15.40:859][ 74]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuGameMode678F4ADA4C921C4633A4388BDF131DA0.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuGameMode.uasset'
+[2021.11.10-00.15.40:984][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.11.10-00.15.41:010][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.11.10-00.15.41:029][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.11.10-00.15.41:062][ 74]AssetCheck: New page: Asset Save: MainMenuGameMode
+[2021.11.10-00.15.41:062][ 74]LogContentValidation: Display: Validating Blueprint /Game/MainMenu/MainMenuGameMode.MainMenuGameMode
+[2021.11.10-00.15.55:507][101]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-00.16.48:379][941]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.10-00.17.04:353][568]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainMenu/MainMenuPlayerController.MainMenuPlayerController
+[2021.11.10-00.17.14:137][367]BlueprintLog: New page: Compile MainMenuPlayerController
+[2021.11.10-00.17.14:174][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.11.10-00.17.14:830][438]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuPlayerController2BD0D1F1462E7A5B7B81A89B866474AA.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuPlayerController.uasset'
+[2021.11.10-00.17.14:841][438]AssetCheck: New page: Asset Save: MainMenuPlayerController
+[2021.11.10-00.17.14:841][438]LogContentValidation: Display: Validating Blueprint /Game/MainMenu/MainMenuPlayerController.MainMenuPlayerController
+[2021.11.10-00.17.19:159][945]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-00.17.26:614][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.11.10-00.17.26:640][828]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap6B8E7DCB4288BD5E43CAF1BDCA7FE27B.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.10-00.17.26:764][828]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_BuiltData87E6918C4FD7E171A24ABDB950DD5D72.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.10-00.17.26:777][828]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-00.17.26:777][828]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.10-00.17.26:777][828]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.10-00.17.39:365][830]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-00.17.39:374][830]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.10-00.17.39:374][830]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2021.11.10-00.17.39:409][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.11.10-00.17.39:410][830]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2021.11.10-00.17.39:410][830]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 9, 2021, 2:17:39 PM)
+[2021.11.10-00.17.39:410][830]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-00.17.39:421][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010595s)
+[2021.11.10-00.17.39:422][830]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-00.17.39:422][830]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002740E6DD000), frame # 310830
+[2021.11.10-00.17.39:422][830]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000274BDA04F40), frame # 310830
+[2021.11.10-00.17.39:422][830]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2021.11.10-00.17.39:422][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011851s)
+[2021.11.10-00.17.39:446][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.11.10-00.17.39:446][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-00.17.39:446][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-00.17.39:446][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-00.17.39:446][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-00.17.39:446][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-00.17.39:446][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-00.17.39:446][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-00.17.39:446][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-00.17.39:447][830]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-00.17.39:447][830]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 4: BackLeft
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 5: BackRight
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 6: SideLeft
+[2021.11.10-00.17.39:451][830]LogAudioMixer: Display: 7: SideRight
+[2021.11.10-00.17.39:475][830]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2021.11.10-00.17.39:475][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-00.17.39:475][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-00.17.39:476][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-00.17.39:476][830]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-00.17.39:486][830]LogInit: FAudioDevice initialized.
+[2021.11.10-00.17.39:495][830]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.11.10-00.17.39:497][830]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.11.09-19.17.39
+[2021.11.10-00.17.39:497][830]LogWorld: Bringing up level for play took: 0.001015
+[2021.11.10-00.17.39:497][830]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.11.10-00.17.39:500][830]PIE: Server logged in
+[2021.11.10-00.17.39:500][830]PIE: Play in editor total start time 0.127 seconds.
+[2021.11.10-00.18.03:419][695]LogRenderer: Reallocating scene render targets to support 1288x624 Format 10 NumSamples 1 (Frame:2859).
+[2021.11.10-00.18.03:450][696]LogRenderer: Reallocating scene render targets to support 1288x632 Format 10 NumSamples 1 (Frame:2860).
+[2021.11.10-00.18.03:479][697]LogRenderer: Reallocating scene render targets to support 1288x644 Format 10 NumSamples 1 (Frame:2861).
+[2021.11.10-00.18.03:510][698]LogRenderer: Reallocating scene render targets to support 1288x664 Format 10 NumSamples 1 (Frame:2862).
+[2021.11.10-00.18.03:540][699]LogRenderer: Reallocating scene render targets to support 1288x680 Format 10 NumSamples 1 (Frame:2863).
+[2021.11.10-00.18.03:571][700]LogRenderer: Reallocating scene render targets to support 1288x700 Format 10 NumSamples 1 (Frame:2864).
+[2021.11.10-00.18.03:602][701]LogRenderer: Reallocating scene render targets to support 1288x720 Format 10 NumSamples 1 (Frame:2865).
+[2021.11.10-00.18.03:630][702]LogRenderer: Reallocating scene render targets to support 1288x736 Format 10 NumSamples 1 (Frame:2866).
+[2021.11.10-00.18.03:661][703]LogRenderer: Reallocating scene render targets to support 1288x744 Format 10 NumSamples 1 (Frame:2867).
+[2021.11.10-00.18.03:691][704]LogRenderer: Reallocating scene render targets to support 1288x752 Format 10 NumSamples 1 (Frame:2868).
+[2021.11.10-00.18.03:721][705]LogRenderer: Reallocating scene render targets to support 1288x756 Format 10 NumSamples 1 (Frame:2869).
+[2021.11.10-00.18.03:751][706]LogRenderer: Reallocating scene render targets to support 1288x764 Format 10 NumSamples 1 (Frame:2870).
+[2021.11.10-00.18.03:781][707]LogRenderer: Reallocating scene render targets to support 1288x768 Format 10 NumSamples 1 (Frame:2871).
+[2021.11.10-00.18.03:811][708]LogRenderer: Reallocating scene render targets to support 1288x780 Format 10 NumSamples 1 (Frame:2872).
+[2021.11.10-00.18.03:840][709]LogRenderer: Reallocating scene render targets to support 1288x788 Format 10 NumSamples 1 (Frame:2873).
+[2021.11.10-00.18.03:869][710]LogRenderer: Reallocating scene render targets to support 1288x792 Format 10 NumSamples 1 (Frame:2874).
+[2021.11.10-00.18.09:687][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-00.18.09:687][231]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.10-00.18.09:687][231]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-00.18.09:687][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-00.18.09:699][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-00.18.09:702][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-00.18.09:722][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-00.18.09:736][231]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000274BDA04F40), frame # 314231
+[2021.11.10-00.18.09:736][231]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002740E6DD000), frame # 314231
+[2021.11.10-00.18.09:738][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.11.10-00.18.09:755][232]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.11.10-00.19.38:979][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.11.10-00.20.04:785][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/jei': Can't find file.
+[2021.11.10-00.20.04:785][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/jei': Can't find file.
+[2021.11.10-00.20.04:785][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-pressed': Can't find file.
+[2021.11.10-00.20.04:785][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-pressed': Can't find file.
+[2021.11.10-00.20.04:785][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-unpressed': Can't find file.
+[2021.11.10-00.20.04:786][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-unpressed': Can't find file.
+[2021.11.10-00.20.04:786][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-pressed': Can't find file.
+[2021.11.10-00.20.04:786][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-pressed': Can't find file.
+[2021.11.10-00.20.04:786][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-unpressed': Can't find file.
+[2021.11.10-00.20.04:786][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-unpressed': Can't find file.
+[2021.11.10-00.20.04:787][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-pressed': Can't find file.
+[2021.11.10-00.20.04:787][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-pressed': Can't find file.
+[2021.11.10-00.20.04:787][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-unpressed': Can't find file.
+[2021.11.10-00.20.04:787][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-unpressed': Can't find file.
+[2021.11.10-00.20.04:787][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-background': Can't find file.
+[2021.11.10-00.20.04:787][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-background': Can't find file.
+[2021.11.10-00.20.04:787][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-logo': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-logo': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-background': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-background': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-icon': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-icon': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-pressed': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-pressed': Can't find file.
+[2021.11.10-00.20.04:788][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-unpressed': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/go-back-unpressed': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-background': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-background': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-logo': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/settings-logo': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-background': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-background': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-icon': Can't find file.
+[2021.11.10-00.20.04:789][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/SettingsWidget.uasset' failed to load '/Game/MainMenu/slider-icon': Can't find file.
+[2021.11.10-00.20.04:790][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/title-leaf': Can't find file.
+[2021.11.10-00.20.04:790][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/title-leaf': Can't find file.
+[2021.11.10-00.20.04:790][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/jei': Can't find file.
+[2021.11.10-00.20.04:790][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/jei': Can't find file.
+[2021.11.10-00.20.04:790][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-pressed': Can't find file.
+[2021.11.10-00.20.04:790][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-pressed': Can't find file.
+[2021.11.10-00.20.04:790][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-unpressed': Can't find file.
+[2021.11.10-00.20.04:791][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/play-button-unpressed': Can't find file.
+[2021.11.10-00.20.04:791][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-pressed': Can't find file.
+[2021.11.10-00.20.04:791][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-pressed': Can't find file.
+[2021.11.10-00.20.04:791][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-unpressed': Can't find file.
+[2021.11.10-00.20.04:791][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/settings-unpressed': Can't find file.
+[2021.11.10-00.20.04:791][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/title-leaf': Can't find file.
+[2021.11.10-00.20.04:791][827]LogLinker: Warning: While loading '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuBlueprint.uasset' failed to load '/Game/MainMenu/title-leaf': Can't find file.
+[2021.11.10-00.20.13:217][826]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.10-00.20.13:221][826]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.10-00.20.16:561][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.11.10-00.20.16:604][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.11.10-00.20.16:621][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMapF0F9C5CF47B1A1151ECE9CA72E1BFC9B.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.10-00.20.16:634][212]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.057
+[2021.11.10-00.20.16:691][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_BuiltData0CC99146440BAE35B8A0DFAD74A5AE45.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.10-00.20.16:766][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/jei6C4A7534495DBE49116796839E810EA9.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/jei.uasset'
+[2021.11.10-00.20.16:776][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/play-button-pressed3A1AB1BA4005BB75B475E8B9351A1F6F.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/play-button-pressed.uasset'
+[2021.11.10-00.20.16:787][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/play-button-unpressed5C7F28E147BF3A116C37339056FCF75B.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/play-button-unpressed.uasset'
+[2021.11.10-00.20.16:797][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-pressedECC5366F42448F95415A02AC20E235D9.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/settings-pressed.uasset'
+[2021.11.10-00.20.16:806][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-unpressed9503B07E47283844C658328D2433D2FD.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/settings-unpressed.uasset'
+[2021.11.10-00.20.16:818][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/title-leaf1F9B2ECA415F6B71B57E80A4C6D27758.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/title-leaf.uasset'
+[2021.11.10-00.20.16:829][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-logo113D40F14CF59D4ACD6A0A84258B0841.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/settings-logo.uasset'
+[2021.11.10-00.20.16:839][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-pressed6024C96649D14A1C0B21FA858071609C.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/go-back-pressed.uasset'
+[2021.11.10-00.20.16:848][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/go-back-unpressed97EFF84742A9DFBDCB59B2A94472CF07.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/go-back-unpressed.uasset'
+[2021.11.10-00.20.16:884][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/settings-background2258A65F4AEA1F06088D10BF43CB47BD.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/settings-background.uasset'
+[2021.11.10-00.20.16:889][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-background405F054C448F271F6ADD748B82BBCF41.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/slider-background.uasset'
+[2021.11.10-00.20.16:893][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/slider-iconE9D987DB4E8E2CF99B47898E900A4244.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/slider-icon.uasset'
+[2021.11.10-00.20.16:899][212]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/MainMenuGameMode3F6498CB43F0ADB9343451AB3F2DFF49.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/MainMenu/MainMenuGameMode.uasset'
+[2021.11.10-00.20.16:970][212]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/jei.jei
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/play-button-pressed.play-button-pressed
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/play-button-unpressed.play-button-unpressed
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/settings-pressed.settings-pressed
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/settings-unpressed.settings-unpressed
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/title-leaf.title-leaf
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/settings-logo.settings-logo
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/go-back-pressed.go-back-pressed
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/go-back-unpressed.go-back-unpressed
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/settings-background.settings-background
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/slider-background.slider-background
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/slider-icon.slider-icon
+[2021.11.10-00.20.16:970][212]LogContentValidation: Display: Validating Blueprint /Game/MainMenu/MainMenuGameMode.MainMenuGameMode
