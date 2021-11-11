@@ -1110,3 +1110,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-01.39.17:183][334]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022459EFBC00), frame # 194334
 [2021.11.11-01.39.17:186][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
 [2021.11.11-01.39.17:420][335]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.11.11-01.39.52:584][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.11.11-01.39.52:607][887]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap7A30453D4704F60940BDAC97593CA11E.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-01.39.52:686][887]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonExampleMap_BuiltData4DBE6E984FE35C921B19A7930CF47C85.tmp' to '../../../../../../Users/Barry C/Documents/School/Classes/CIS 4914 Senior Project/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-01.39.52:700][887]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-01.39.52:700][887]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-01.39.52:700][887]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
