@@ -803,3 +803,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.22-18.06.29:944][271]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MainMenu_Auto1AFA805C341BA5F177712D58315F56C9C.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/Autosaves/Game/Levels/MainMenu_Auto1.umap'
 [2021.11.22-18.06.29:946][271]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu' took 0.053
 [2021.11.22-18.06.29:946][271]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.053
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B528E6961-419E-570D-EC93-D395CC6C862D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=57e3f43e475728d60e8a92a5745765b7%7C849def32f1f6477f842919c513b888bb%7C59e16cc1-dd2e-431c-a602-e85053a00834&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: request failed, libcurl error: 0 (No error)
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1dd4f327f70 [can pipeline])
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.223.66.64) port 443 (#10))
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 7 (Closing connection 10)
+[2021.11.22-18.10.32:287][899]LogHttp: Warning: 000001DDA3020800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.11.22-18.10.32:295][900]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B528E6961-419E-570D-EC93-D395CC6C862D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=57e3f43e475728d60e8a92a5745765b7%7C849def32f1f6477f842919c513b888bb%7C59e16cc1-dd2e-431c-a602-e85053a00834&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.22-18.10.39:143][686]BlueprintLog: New page: Compile MainMenu
+[2021.11.22-18.10.39:179][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.22-18.10.49:462][846]BlueprintLog: New page: Compile MainMenu
+[2021.11.22-18.10.49:467][846]LogClass: Warning: Type mismatch in APICallerClass of MainMenu_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2021.11.22-18.10.49:497][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.11.22-18.10.53:296][257]BlueprintLog: New page: Compile MainMenu
+[2021.11.22-18.10.53:329][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.11.22-18.13.34:289][147]BlueprintLog: New page: Compile MainMenu
+[2021.11.22-18.13.34:329][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.11.22-18.13.35:158][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.11.22-18.13.35:184][231]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MainMenuCC8D514743D5CDCF669538B5801684F2.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/Levels/MainMenu.umap'
+[2021.11.22-18.13.35:204][231]LogFileHelpers: Saving map 'MainMenu' took 0.067
+[2021.11.22-18.13.35:217][231]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.22-18.13.35:217][231]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
