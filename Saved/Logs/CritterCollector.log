@@ -864,3 +864,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.22-18.20.26:481][ 21]LogFileHelpers: Saving map 'MainMenu' took 0.069
 [2021.11.22-18.20.26:491][ 21]AssetCheck: New page: Asset Save: MainMenu
 [2021.11.22-18.20.26:491][ 21]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2021.11.22-18.21.48:923][624]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/DownloadedMaterial.DownloadedMaterial
+[2021.11.22-18.21.48:924][624]LogMaterial: Display: Missing cached shader map for material DownloadedMaterial, compiling. 
+[2021.11.22-18.21.49:175][624]LogMaterial: Display: Missing cached shader map for material DownloadedMaterial, compiling. 
+[2021.11.22-18.21.49:180][624]LogMaterial: Display: Missing cached shader map for material DownloadedMaterial, compiling. 
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.22-18.21.49:192][624]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.22-18.21.49:192][624]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.11.22-18.21.49:968][662]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.22-18.21.49:985][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.11.22-18.21.50:167][673]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.22-18.21.50:186][674]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.22-18.21.50:253][677]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.22-18.21.50:416][687]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.11.22-18.21.50:416][687]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.11.22-18.21.50:416][687]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.11.22-18.21.50:416][687]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.22-18.21.50:416][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.22-18.21.50:416][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.22-18.22.11:524][164]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.22-18.22.21:918][120]LogRenderer: Reallocating scene render targets to support 1288x768 Format 10 NumSamples 1 (Frame:1).
+[2021.11.22-18.23.18:420][563]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.22-18.23.18:484][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.11.22-18.23.19:443][661]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/ThirdPersonCharacter1AEF71FA44B2AE0D22D5BE8CD20D5F4D.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.22-18.23.19:458][661]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.22-18.23.19:458][661]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.22-18.26.59:058][896]LogEditorViewport: Clicking on Actor (LMB): MapBillboard_C (MapBillboard)
+[2021.11.22-18.27.08:561][988]Cmd: DELETE
+[2021.11.22-18.27.08:561][988]Cmd: ACTOR DELETE
+[2021.11.22-18.27.08:563][988]LogEditorActor: Deleted Actor: MapBillboard_C
+[2021.11.22-18.27.08:590][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.22-18.27.08:592][988]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.11.22-18.27.10:530][215]Cmd: DELETE
+[2021.11.22-18.27.10:530][215]Cmd: ACTOR DELETE
+[2021.11.22-18.27.10:532][215]LogEditorActor: Deleted Actor: MapBillboard_C
+[2021.11.22-18.27.10:556][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.11.22-18.27.10:557][215]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.11.22-18.28.05:665][254]Cmd: TRANSACTION UNDO
+[2021.11.22-18.28.05:665][254]LogEditorTransaction: Undo Rotate Actors
+[2021.11.22-18.28.06:233][284]Cmd: TRANSACTION UNDO
+[2021.11.22-18.28.06:233][284]LogEditorTransaction: Undo Rotate Actors
+[2021.11.22-18.28.40:021][998]LogEditorViewport: Clicking on Actor (LMB): MapBillboard_C (MapBillboard)
+[2021.11.22-18.28.52:527][327]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.11.22-18.29.00:773][239]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.11.22-18.29.02:065][382]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.11.22-18.29.06:400][832]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (easy-lemon_Cue)
+[2021.11.22-18.29.20:011][295]LogEditorViewport: Clicking on Actor (LMB): APICaller_C (APICaller)
+[2021.11.22-18.29.28:467][220]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.11.22-18.29.43:442][816]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.11.22-18.30.00:079][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.22-18.30.00:106][516]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MainMenuD56FB63A463105A2276223BF12C12640.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/Levels/MainMenu.umap'
+[2021.11.22-18.30.00:140][516]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MainMenu_BuiltData0B6F49EA4398D172AEDD5BA759AB9490.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/Levels/MainMenu_BuiltData.uasset'
+[2021.11.22-18.30.00:156][516]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.22-18.30.00:156][516]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2021.11.22-18.30.00:156][516]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainMenu_BuiltData.MainMenu_BuiltData
