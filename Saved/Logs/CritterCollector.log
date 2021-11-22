@@ -829,3 +829,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.22-18.13.35:204][231]LogFileHelpers: Saving map 'MainMenu' took 0.067
 [2021.11.22-18.13.35:217][231]AssetCheck: New page: Asset Save: MainMenu
 [2021.11.22-18.13.35:217][231]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2021.11.22-18.17.37:243][968]BlueprintLog: New page: Compile APICaller
+[2021.11.22-18.17.37:288][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.11.22-18.17.40:331][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.22-18.17.40:357][284]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MainMenuB548AF0641E74078E054FBB6E138476A.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/Levels/MainMenu.umap'
+[2021.11.22-18.17.40:375][284]LogFileHelpers: Saving map 'MainMenu' took 0.065
+[2021.11.22-18.17.40:385][284]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.22-18.17.40:385][284]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2021.11.22-18.17.44:553][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/APICaller" FILE="../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/APICaller.uasset" SILENT=true
+[2021.11.22-18.17.44:574][754]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/APICallerABBEF7704CF423C2D3872F8E1D653AF8.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/APICaller.uasset'
+[2021.11.22-18.17.44:586][754]AssetCheck: New page: Asset Save: APICaller
+[2021.11.22-18.17.44:586][754]LogContentValidation: Display: Validating Blueprint /Game/APICaller.APICaller
+[2021.11.22-18.17.54:222][814]BlueprintLog: New page: Compile APICaller
+[2021.11.22-18.17.54:265][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.11.22-18.17.54:990][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/APICaller" FILE="../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/APICaller.uasset" SILENT=true
+[2021.11.22-18.17.55:010][885]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/APICaller1085B4AD4E89663F49DB63BE55EF72C4.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/APICaller.uasset'
+[2021.11.22-18.17.55:021][885]AssetCheck: New page: Asset Save: APICaller
+[2021.11.22-18.17.55:021][885]LogContentValidation: Display: Validating Blueprint /Game/APICaller.APICaller
+[2021.11.22-18.18.13:350][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapBillboard.MapBillboard
+[2021.11.22-18.19.31:147][667]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2021.11.22-18.20.00:800][106]BlueprintLog: New page: Compile MapBillboard
+[2021.11.22-18.20.00:846][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.22-18.20.01:538][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBillboard" FILE="../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/MapBillboard.uasset" SILENT=true
+[2021.11.22-18.20.01:556][179]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MapBillboard26CA2F3A442CF312E87CE5A2AB1B435F.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/MapBillboard.uasset'
+[2021.11.22-18.20.01:566][179]AssetCheck: New page: Asset Save: MapBillboard
+[2021.11.22-18.20.01:566][179]LogContentValidation: Display: Validating Blueprint /Game/MapBillboard.MapBillboard
+[2021.11.22-18.20.07:233][821]LogRenderer: Reallocating scene render targets to support 1288x636 Format 10 NumSamples 1 (Frame:1).
+[2021.11.22-18.20.24:436][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBillboard" FILE="../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/MapBillboard.uasset" SILENT=true
+[2021.11.22-18.20.24:450][803]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MapBillboard2978A3AF42DBA07BB3D0229805662509.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/MapBillboard.uasset'
+[2021.11.22-18.20.24:461][803]AssetCheck: New page: Asset Save: MapBillboard
+[2021.11.22-18.20.24:461][803]LogContentValidation: Display: Validating Blueprint /Game/MapBillboard.MapBillboard
+[2021.11.22-18.20.26:435][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.11.22-18.20.26:462][ 21]LogSavePackage: Moving '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Saved/MainMenu13FF729E4952DA656069EA873699A069.tmp' to '../../../../../../Users/Barry C/Documents/Unreal Projects/UnrealCC/CritterCollector-Unreal/Content/Levels/MainMenu.umap'
+[2021.11.22-18.20.26:481][ 21]LogFileHelpers: Saving map 'MainMenu' took 0.069
+[2021.11.22-18.20.26:491][ 21]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.22-18.20.26:491][ 21]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
