@@ -33,5 +33,5 @@ Session.vim
 .netrwhist
 
 # Visual Studio
-.vs
+.vs 
 .vscode
